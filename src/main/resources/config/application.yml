@@ -1,0 +1,4 @@
+server:
+  port: 1990
+  servlet:
+    context-path: /day
